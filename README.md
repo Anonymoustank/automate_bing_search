@@ -3,4 +3,4 @@ Tired of having to actually search stuff up on Bing to get rewards points? Look 
 
 Prerequisites (Android): Python 3, Termux (or another Linux-like terminal)
 
-Prerequisites (Windows): Python 3, PS_SearchNet.ps1 (included in this repo)
+Prerequisites (Windows 10): Python 3, PS_SearchNet.ps1 (included in this repo)
