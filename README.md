@@ -1,4 +1,6 @@
 # automate_bing_search
 Tired of having to actually search stuff up on Bing to get rewards points? Look no further! This script (designed for Windows 10 users) completes this task for you.
 
-Prerequisites: Python 3
+Prerequisites (Android): Python 3, Termux (or another Linux-like terminal)
+
+Prerequisites (Windows): Python 3, PS_SearchNet.ps1 (included in this repo)
