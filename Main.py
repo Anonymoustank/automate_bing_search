@@ -26,5 +26,9 @@ for i in range(loop_num):
     else:
         time.sleep(1.5)
 
+if number % 7 != 0:
+    time.sleep(1.5)
+    os.system("powershell Stop-Process -Name msedge")
+    
 print("This program ran into %s errors" % error)
 time.sleep(2)
